@@ -46,7 +46,6 @@ public class MainActivity extends Activity {
 
             }
         });
-
         LocalBroadcastManager.getInstance(this).registerReceiver(onNotice, new IntentFilter("Msg"));
 
     }
