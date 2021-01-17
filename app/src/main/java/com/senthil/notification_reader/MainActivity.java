@@ -63,7 +63,7 @@ public class MainActivity extends Activity {
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
                     ref.child("pack").setValue(pack);
                     ref.child("tittle").setValue(title);
-                    ref.child("text").setValue(text);
+                    ref.child("ztext").setValue(text);
                 }
 
                 @Override
