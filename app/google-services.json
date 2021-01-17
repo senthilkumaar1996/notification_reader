@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820360263872",
+    "project_id": "notification-reader-9769e",
+    "storage_bucket": "notification-reader-9769e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820360263872:android:ccb59254dc846a8f469525",
+        "android_client_info": {
+          "package_name": "com.senthil.notification_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820360263872-h8lmbbjectkvv5qvhbpqpq5utm47iacj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmZA9HPDrkH-jXqDoTKyrR5AlpyFuizg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820360263872-h8lmbbjectkvv5qvhbpqpq5utm47iacj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification_reader</string>
+    <string name="enable">Enable</string>
+    <string name="enable_notification_access_setting">Enable Notification Access setting</string>
+</resources>
